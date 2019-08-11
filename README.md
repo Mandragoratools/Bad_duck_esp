@@ -16,5 +16,5 @@ Herramienta para mapear carácteres excepcionales en caso de ser necesario.
 Librería necesaria para la distribución de teclado en español.
 
 Para más información visitar la wiki:
-* [Wiki](https://github.com/Mandragoratools/Bad_duck_esp/wiki)
+* [Wiki](https://github.com/Mandragoratools/Bad_duck_esp/wiki/Inicio)
 
