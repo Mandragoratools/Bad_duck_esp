@@ -6,12 +6,12 @@ Distribución de teclado en español (España)
 
 Este repositorio incluye:
 
-**bad_duck_esp:**
+1. **bad_duck_esp:**
 Interprete de DuckyScript.
 
-**maper:**
+2. **maper:**
 Herramienta para mapear carácteres excepcionales en caso de ser necesario.
 
-**Arduino_keyboard_LBDL**
+3. **Arduino_keyboard_LBDL**
 Librería necesaria para la distribución de teclado en español.
 
