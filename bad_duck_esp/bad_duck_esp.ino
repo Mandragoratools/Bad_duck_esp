@@ -717,13 +717,13 @@ void management() {
   Serial.print(F("Playload actual: "));
   Serial.println(payload);
   Serial.println();
-  Serial.println("Seleción modo:");
+  Serial.println("Selección modo:");
   writeConfig("mode.cfg", inputData());
   Serial.println();
   Serial.println(F("Selección lenguaje:"));
   writeConfig("lang.cfg", inputData());
   Serial.println();
-  Serial.println(F("Seleción playload:"));
+  Serial.println(F("Selección playload:"));
   writeConfig("exec.cfg", inputData());
   Serial.println();
   Serial.println(F("Todo listo, ahora puedes divertirte :)"));
